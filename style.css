@@ -4,7 +4,7 @@
 font-family: 'Poppins', sans-serif;
 font-family: 'Quicksand', sans-serif;
 font-family: 'Ubuntu', sans-serif;
-overflow-x: hidden;
+/* overflow-x: hidden; */
 }
 a{
     text-decoration: none !important;
